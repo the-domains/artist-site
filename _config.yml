@@ -1,0 +1,14 @@
+layout_spectrum: 0.604436564957723
+typography_spectrum: 0.0008360212668776512
+color:
+  brandStrength: 0.022565406979992986
+  lightness: 0.62162996805273
+  saturation: 0.9555783323012292
+  rhythmicContrast: 0.033317891880869865
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: artist site
