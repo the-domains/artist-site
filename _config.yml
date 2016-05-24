@@ -1,4 +1,3 @@
-layout_spectrum: 0.604436564957723
 typography_spectrum: 0.0008360212668776512
 color:
   brandStrength: 0.022565406979992986
@@ -11,4 +10,9 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/084c1332-f505-426d-9694-ef453bea0f6c.jpg'
+layout_spectrum: 0.604436564957723
+logo: null
 name: artist site
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb0fbd0-4e84-406e-ab36-99c3351b816a.jpg'
