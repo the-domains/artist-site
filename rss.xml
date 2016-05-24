@@ -2,13 +2,69 @@
     <channel>
         <title><![CDATA[ak3]]></title>
         <description><![CDATA[ak3]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artist-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 22:28:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 22:29:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artist-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0857fb8-2136-4c21-8106-eb359842f792.jpg">]]></description>
+            <link>https://thegrid.ai/artist-site/2fad063f-b77b-4d65-bf48-00117a989756/index.html</link>
+            <guid isPermaLink="false">2fad063f-b77b-4d65-bf48-00117a989756</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Shelter & Housing</p>]]></description>
+            <link>https://thegrid.ai/artist-site/shelter-and-housing/index.html</link>
+            <guid isPermaLink="false">dea981cf-30c8-456e-b8bb-82e2a8b98cd9</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8bf277f-a4d7-4f11-b731-779781682841.jpg">]]></description>
+            <link>https://thegrid.ai/artist-site/e9608218-0729-4575-86ad-bd31ab74001b/index.html</link>
+            <guid isPermaLink="false">e9608218-0729-4575-86ad-bd31ab74001b</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abraham Kenner w Polsce]]></title>
+            <description><![CDATA[<article><h1>Abraham Kenner w Polsce</h1><p>Znany w amerykańskim środowisku soul/gospel wokalista i pianista Abraham Kenner już w lutym zawita do Polski! Jako support na jego jedynym koncercie w Łodzi wystąpi łódzki chór - The Gospel Time. Abraham Kenner , wzięty muzyk sesyjny wciąż podróżujący między swym rodzinnym Ohio a Nowym Jorkiem i Los Angeles, uznany dyrygent chórów gospel i producent muzycznym 16 listopada o godz.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad8b4b561dc938302a5da9d68432430854fed0ab.jpg"></article>]]></description>
+            <link>http://muzyka.wp.pl/title,Abraham-Kenner-w-Polsce,wid,647486,wiadomosc.html?ticaid=1170e0</link>
+            <guid isPermaLink="false">eff37279-d88a-4216-9314-afd55b759786</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c8b74ea-e7ab-49fb-9008-1d753ccaccea.jpg">]]></description>
+            <link>https://thegrid.ai/artist-site/425ab3b5-6564-4f5f-a5c4-7ca212a9c46e/index.html</link>
+            <guid isPermaLink="false">425ab3b5-6564-4f5f-a5c4-7ca212a9c46e</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8a442f8-339d-4ebb-b8f2-9f37eae9f136.jpg">]]></description>
+            <link>https://thegrid.ai/artist-site/e4bdac84-8e4e-4f39-b7f6-cc2f4a25c26b/index.html</link>
+            <guid isPermaLink="false">e4bdac84-8e4e-4f39-b7f6-cc2f4a25c26b</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d5253b8-335b-4c2d-8a03-4c58a9c5df8a.jpg">]]></description>
+            <link>https://thegrid.ai/artist-site/8cf52aeb-917c-4315-9fc8-9422f70a5d82/index.html</link>
+            <guid isPermaLink="false">8cf52aeb-917c-4315-9fc8-9422f70a5d82</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4e2c574-ed45-4730-8599-dacb713eb8a8.png">]]></description>
+            <link>https://thegrid.ai/artist-site/34c759d6-6b75-405a-bd0c-1c1f4c6240d0/index.html</link>
+            <guid isPermaLink="false">34c759d6-6b75-405a-bd0c-1c1f4c6240d0</guid>
+            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Abraham K3]]></title>
-            <description><![CDATA[<article><h1>Abraham K3</h1><p>Listen to Abraham K3 | SoundCloud is an audio platform that lets you listen to what you love and share the sounds you create.. 14 Tracks. 14 Followers. Stream Tracks and Playlists from Abraham K3 on your desktop or mobile device.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Abraham K3</h1><p>Listen to Abraham K3 | SoundCloud is an audio platform that lets you listen to what you love and share the sounds you create.. 14 Tracks. 14 Followers. Stream Tracks and Playlists from Abraham K3 on your desktop or mobile device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d803a33d1d2fa481004932bd44a2c25d93d48e21.jpg"></article>]]></description>
             <link>https://soundcloud.com/abraham-k3</link>
             <guid isPermaLink="false">d1966e36-e607-4968-b35d-cda5ce832c2e</guid>
             <pubDate>Tue, 24 May 2016 22:28:33 GMT</pubDate>
