@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ak3]]></title>
-        <description><![CDATA[ak3]]></description>
+        <title><![CDATA[artist site]]></title>
+        <description><![CDATA[artist site]]></description>
         <link>https://thegrid.ai/artist-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 22:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 23:03:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/artist-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0857fb8-2136-4c21-8106-eb359842f792.jpg">]]></description>
             <link>https://thegrid.ai/artist-site/2fad063f-b77b-4d65-bf48-00117a989756/index.html</link>
             <guid isPermaLink="false">2fad063f-b77b-4d65-bf48-00117a989756</guid>
-            <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Shelter & Housing</p>]]></description>
-            <link>https://thegrid.ai/artist-site/shelter-and-housing/index.html</link>
-            <guid isPermaLink="false">dea981cf-30c8-456e-b8bb-82e2a8b98cd9</guid>
             <pubDate>Tue, 24 May 2016 22:29:04 GMT</pubDate>
         </item>
         <item>
